@@ -1,8 +1,8 @@
-# A Simple Chat Bot to query COVID19 stats
+# An interactive chatbot for COVID-19 stats
 
 ## Description
 
-You can query statistics related to COVID19 to this assistant. It can respond to any general or location-specific queries. Time period-specific queries have also been implemented, but they are limited to countries or states. I have intent-specific added error handling to make the app more intuitive.
+A Dialogflow powered assistant that can answer your statistics related queries on COVID19. It can respond to any general or location-specific queries. Time period-specific queries have also been implemented, but they are limited to countries or states. I have intent-specific added error handling to make the app more intuitive. It is speech-enabled and uses the the SpeechRecognition interface of the Web Speech API available in most modern browsers.
 
 ## How to deploy and fork
 
@@ -16,4 +16,4 @@ You can query statistics related to COVID19 to this assistant. It can respond to
 
 #### Demo
 
-Watch the Demo video at (cvbot/tree/master/Demo Video.mov) to gather the bot's capabilities.
+Watch the Demo video at [cvbot/tree/master/Demo Video.mov](cvbot/tree/master/Demo Video.mov) to gather the bot's capabilities.
