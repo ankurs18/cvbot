@@ -1,0 +1,48 @@
+{
+  "id": "80645414-4b65-4f4a-9ac0-3131873c34d3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "Hi there! Welcome to CVBot. What is your name?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hi there! Welcome to CVBot. What is your name?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

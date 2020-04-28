@@ -1,0 +1,61 @@
+{
+  "id": "92267950-fdf5-4f0c-93e1-122733fb325b",
+  "parentId": "80645414-4b65-4f4a-9ac0-3131873c34d3",
+  "rootParentId": "80645414-4b65-4f4a-9ac0-3131873c34d3",
+  "name": "Default Welcome Intent - custom",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1eeceb8-9640-49e5-843a-817d06d8b1f4",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hello $name, you can call me Dr. Stats. Do you want to know what I can do?"
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "Hello $name, you can call me Dr. Stats. Do you want to know what I can do?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

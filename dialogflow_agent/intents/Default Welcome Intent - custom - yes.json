@@ -1,0 +1,42 @@
+{
+  "id": "7c6869b5-7afa-4c5f-9cad-f928acba7ed6",
+  "parentId": "92267950-fdf5-4f0c-93e1-122733fb325b",
+  "rootParentId": "80645414-4b65-4f4a-9ac0-3131873c34d3",
+  "name": "Default Welcome Intent - custom - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-custom-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I can look up the statistics about COVID19 cases. You can ask me the latest numbers worldwide or even for a specific county, state or country. I can also provide you with stats for a specific period for a particular state or country."
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "I can look up the statistics about COVID -19 cases. You can ask me the latest numbers worldwide or even for a specific county, state or country. I can also provide you with stats for a specific period for a particular state or country."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

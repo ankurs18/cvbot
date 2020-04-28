@@ -1,0 +1,42 @@
+{
+  "id": "2d947297-1795-436c-967b-4a7f1e1bcb1c",
+  "parentId": "9873d6bc-703d-4744-a817-48965f49c06e",
+  "rootParentId": "9873d6bc-703d-4744-a817-48965f49c06e",
+  "name": "Default Fallback Intent - no",
+  "auto": true,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "No problem! I am ready for your queries when you are."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No problem! I am ready for your queries when you are."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": "f759deb4-997c-4743-9bc2-515a8d7fef73",
+  "name": "stats.byDate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "572372ab-933d-49ed-8146-dce05621c8b1",
+          "required": true,
+          "dataType": "@stat_type",
+          "name": "type",
+          "value": "$type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "all",
+          "isList": true
+        },
+        {
+          "id": "6c4dd6f9-895a-445b-9255-45b3db2a55e6",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "08473b1b-efb9-4a22-ac61-fb15a1e8c371",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bb421459-92bb-43f1-88e5-c5526dbb9f3c",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "4158cc51-bc10-4185-8662-d66bee218476",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

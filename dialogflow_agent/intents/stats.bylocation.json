@@ -1,0 +1,123 @@
+{
+  "id": "236c097e-fd27-4fda-96d7-c9c6b9a415bb",
+  "name": "stats.bylocation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "942660a6-7ccc-4243-b725-86304accb466",
+          "required": false,
+          "dataType": "@stat_type",
+          "name": "type",
+          "value": "$type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "all",
+          "isList": true
+        },
+        {
+          "id": "b5f2fd24-584c-4a68-914e-6b5edc1c76e7",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "f24cf3a3-8533-409a-88da-adc768b5b46c",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "9a5fa6a0-edb5-415e-87f7-ab28b16ef9c0",
+          "required": false,
+          "dataType": "@County",
+          "name": "county",
+          "value": "$county",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "2b26df0a-8cfb-4ca9-8001-c25cfca03eff",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "state",
+          "value": "$state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "18171349-5581-408c-b64d-981f5392f875",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "country",
+          "value": "$country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a11a3854-b2f2-4d2f-92b5-63dece9eb719",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "city",
+          "value": "$city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

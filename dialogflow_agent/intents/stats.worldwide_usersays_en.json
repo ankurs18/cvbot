@@ -1,0 +1,140 @@
+[
+  {
+    "id": "e1848e8a-3040-4ae0-84fe-221dc8436cc7",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "799f4614-a030-4e9a-b529-dbcaaeb79a7a",
+    "data": [
+      {
+        "text": "what is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c63da7c-f8bb-43cf-99ab-539b019e2de3",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "current cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "260ebd4e-62a3-4d89-863e-7eef4461a445",
+    "data": [
+      {
+        "text": "how many people have ",
+        "userDefined": false
+      },
+      {
+        "text": "died",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " from coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebc9fce9-c4bc-4c74-a4ff-be0d91f033a8",
+    "data": [
+      {
+        "text": "how many people are ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb9ee332-1148-4712-9fec-008516c05969",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed47a129-3755-434a-8f12-71151a55274d",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "lastest",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

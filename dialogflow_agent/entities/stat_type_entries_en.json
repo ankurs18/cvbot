@@ -1,0 +1,62 @@
+[
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "latest stats",
+      "current stats",
+      "all stats",
+      "all statistics",
+      "current statistics",
+      "latest statistics",
+      "stats",
+      "statistics"
+    ]
+  },
+  {
+    "value": "deaths",
+    "synonyms": [
+      "deaths",
+      "death",
+      "died",
+      "total deaths",
+      "current deaths",
+      "latest deaths",
+      "death count",
+      "death toll",
+      "current death count",
+      "current death toll"
+    ]
+  },
+  {
+    "value": "recovered",
+    "synonyms": [
+      "recovered",
+      "got better",
+      "recoveries",
+      "recovered cases",
+      "latest recovered",
+      "latest recovered cases",
+      "latest recoveries",
+      "current recoveries",
+      "current recovered cases",
+      "total recovered cases"
+    ]
+  },
+  {
+    "value": "confirmed",
+    "synonyms": [
+      "confirmed",
+      "sick",
+      "infected",
+      "current cases",
+      "cases",
+      "latest cases",
+      "confirmed cases",
+      "new cases",
+      "sick cases",
+      "infected cases",
+      "confirmed infected"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "7d54a008-9b34-48e9-88a7-00c50d60b172",
+  "parentId": "9873d6bc-703d-4744-a817-48965f49c06e",
+  "rootParentId": "9873d6bc-703d-4744-a817-48965f49c06e",
+  "name": "Default Fallback Intent - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultFallbackIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultFallbackIntent.DefaultFallbackIntent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I can look up the statistics about COVID19 cases. You can ask me the latest numbers worldwide or even for a specific county, state or country. I can also provide you with stats for a specific period for a particular state or country."
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "I can look up the statistics about COVID -19 cases. You can ask me the latest numbers worldwide or even for a specific county, state or country. I can also provide you with stats for a specific period for a particular state or country."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

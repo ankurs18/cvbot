@@ -1,0 +1,37 @@
+{
+  "id": "54b50e2c-96a7-408c-bdff-e206f68db168",
+  "name": "capabilities_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I can look up the statistics about COVID19 cases. You can ask me the latest numbers worldwide or even for a specific county, state or country. I can also provide you with stats for a specific period for a particular state or country."
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": "I can look up the latest stats about COVID -19"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

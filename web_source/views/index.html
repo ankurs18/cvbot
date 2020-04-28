@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="A Simple Chat Bot to query COVID19 stats" />
+    <title>CV Bot</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="https://unpkg.com/botui/build/botui-theme-default.css" />
+    <script src="https://cdn.jsdelivr.net/vue/latest/vue.min.js"></script>
+    <script src="https://unpkg.com/botui/build/botui.min.js"></script>
+  </head>
+
+  <body>
+    <section>
+      <h1>CV Bot</h1>
+      <h2>Your assistant for COVID-19 stats</h2>
+
+      <div>
+        <div id="my-botui-app" style="visibility: hidden; margin-top: 1em; max-height: 450px;">
+          <bot-ui> </bot-ui>
+        </div>
+      </div>
+      <button><i class="fa fa-microphone"></i></button>
+    </section>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

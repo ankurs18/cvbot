@@ -1,0 +1,112 @@
+[
+  {
+    "id": "48135c2c-1514-4c8c-8df1-56dd2091cf2d",
+    "data": [
+      {
+        "text": "what is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26d8ca94-a437-4d03-868e-6ed6849d0e0f",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "current cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aee95115-246a-42d5-8c21-f6be71a6c153",
+    "data": [
+      {
+        "text": "how many people have ",
+        "userDefined": false
+      },
+      {
+        "text": "died",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " from coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "212b9234-7c13-4775-95c8-5adcc4079b80",
+    "data": [
+      {
+        "text": "how many people are ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6aa2b719-b8cc-4919-9a65-c482723f0941",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34914d3c-5422-485f-928d-0df7a66c2a4e",
+    "data": [
+      {
+        "text": "what are the lastest stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "id": "542be106-0a24-437e-85bc-f78f35c5611b",
+    "data": [
+      {
+        "text": "can you tell me what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "latest statistics",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "california",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a518d1cb-2757-4c1b-a9c3-cde1a4100321",
+    "data": [
+      {
+        "text": "What are the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States of America",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81441d83-a064-4f28-97dd-b815fc417ca7",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "current",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": false
+      },
+      {
+        "text": " stats for ",
+        "userDefined": false
+      },
+      {
+        "text": "Arkansas",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Spain",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22242c1a-848c-40bb-ae79-95c7fb64db27",
+    "data": [
+      {
+        "text": "What is the latest condition in ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b29597c8-7cea-475c-ab0c-86134e5de385",
+    "data": [
+      {
+        "text": "What are the latest stats for ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8817f99-e3ba-4516-a25f-0c66b98a9243",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Alachua County",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e91a8d8c-1c7d-4195-b11f-a35eef3d3433",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "California",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90f8ef43-24d1-41fc-886b-c2e496096a05",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db664436-2b3c-4fa9-9963-6cc48ebbaa67",
+    "data": [
+      {
+        "text": "What are the number of ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmed cases",
+        "alias": "type",
+        "meta": "@stat_type",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orleans Parish",
+        "alias": "county",
+        "meta": "@County",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Louisiana",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "value": "all",
+    "synonyms": [
+      "all"
+    ]
+  },
+  {
+    "value": "deaths",
+    "synonyms": [
+      "deaths",
+      "death",
+      "died"
+    ]
+  },
+  {
+    "value": "recovered",
+    "synonyms": [
+      "recovered",
+      "got better",
+      "recoveries"
+    ]
+  },
+  {
+    "value": "confirmed",
+    "synonyms": [
+      "confirmed",
+      "sick",
+      "infected",
+      "current",
+      "current cases",
+      "cases"
+    ]
+  }
+]

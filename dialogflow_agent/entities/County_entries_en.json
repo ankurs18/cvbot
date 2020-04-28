@@ -1,0 +1,14 @@
+[
+  {
+    "value": "([[:alpha:]]+) [c|C]ounty",
+    "synonyms": [
+      "([[:alpha:]]+) [c|C]ounty"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) [p|P]arish",
+    "synonyms": [
+      "([[:alpha:]]+) [p|P]arish"
+    ]
+  }
+]
