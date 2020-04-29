@@ -7,7 +7,7 @@ A Dialogflow powered assistant that can answer your statistics related queries o
 ## How to deploy and fork
 
 1. Create similar intents on Dialogflow using by importing the structure from the [dialogflow_agent directory](dialogflow_agent/) into a new agent.
-2. Also create their fulfillment webhook functions as a webhook on firebase. Refer to the code in [dialogflow_fulfillment directory](dialogflow_agent/)
+2. Also create their fulfillment webhook functions as a webhook on firebase. Refer to the code in [dialogflow_fulfillment directory](dialogflow_fullfilment/)
 3. Use the web-app residing in the [web_source directory](web_source) and run it on a server.
 
 ### Demo
